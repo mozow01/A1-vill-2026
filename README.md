@@ -37,7 +37,7 @@ A korábbi előadók jegyzeteit használjuk és az órákon írt vázlatot. Enn�
 
 ## Tárgykövetelmények
 
-[pdf](https://github.com/mozow01/A1-2024-vill/blob/main/Matematika_A1_%20vill_Moln%C3%A1r_2026.docx.pdf)
+[pdf](https://github.com/mozow01/A1-vill-2026/blob/main/Matematika_A1_vill_Molnar_2026.docx.pdf)
 
 ### Az _aláírás_ megszerzésének feltételei
 1. Mindként zh teljesítése, azaz **legalább 18 pont** elérése a 60-ból külön mindkét zh-n. 
