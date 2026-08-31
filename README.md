@@ -1,15 +1,15 @@
 # Matematika A1 villamosmérnököknek
 
-BMETEMIBsVMAT1-00, 8 kredit, kollokvium
+BMETEMIBsVMAT1-00, 8 kredit, vizsga
 
 | előadás | gyakorlat | nagytermi gyakorlat |
 |---------|---------|-----------|
-| Sze: 10-12, Cs: 12-14, IB028 | sok helyen, sok időben     | K: 15-17 (Molnár Zoltán, közép) IB0, (Milkovszki Tamás) IB|
+| Sze: 12:15-14:00 QI, Cs: 12:15-14, E1B | sok helyen, sok időben  | K: 15-17 (Molnár Zoltán, közép) IB025, (Milkovszki Tamás) IB026 |
 | frontális, fogalmak, módszerek   | közös gyakorlás | interaktív feladatmegoldás |
 
 ## ZH információk
 
-[Számonkérések ütemezése](https://www.vik.bme.hu/page/1150/)
+[Számonkérések ütemezése](https://www.vik.bme.hu/page/1150/) (később)
 
 1. zh: 2026. okt.
   
@@ -37,7 +37,7 @@ A korábbi előadók jegyzeteit használjuk és az órákon írt vázlatot. Enn�
 
 ## Tárgykövetelmények
 
-[pdf](https://github.com/mozow01/A1-2024-vill/blob/main/Matematika_A1_%20vill_Moln%C3%A1r_2026.pdf)
+[pdf](https://github.com/mozow01/A1-2024-vill/blob/main/Matematika_A1_%20vill_Moln%C3%A1r_2026.docx.pdf)
 
 ### Az _aláírás_ megszerzésének feltételei
 1. Mindként zh teljesítése, azaz **legalább 18 pont** elérése a 60-ból külön mindkét zh-n. 
