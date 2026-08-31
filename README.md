@@ -1,6 +1,8 @@
 # Matematika A1 villamosmérnököknek
 
-BMETEMIBsVMAT1-00, 8 kredit, vizsga, a tárgy gazdája a BME Természettudományi Kar Matematikai Intézete (Algebra és Geometria Tanszék).
+BMETEMIBsVMAT1-00, 8 kredit, vizsga.
+
+A tárgy gazdája a BME Természettudományi Kar Matematikai Intézete (Algebra és Geometria Tanszék).
 
 | előadás | gyakorlat | nagytermi gyakorlat |
 |---------|---------|-----------|
