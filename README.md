@@ -31,7 +31,7 @@ A több mint 20 évre visszanyúló Serény György / Simon András -féle hagyo
 
 Simon András korábbi előadó oldala: https://math.bme.hu/~asimon/
 
-VIK wiki: https://vik.wiki/Matematika_A1a_-_Anal%C3%ADzis (a nem PJ jelű feladatsorok, amik Pitrik József tanárúr féléveit jelenti)
+VIK wiki: https://vik.wiki/Matematika_A1a_-_Anal%C3%ADzis (a **nem** PJ jelű feladatsorok, amik Pitrik József tanárúr féléveit jelenti, hanem a többi).
 
 Hasznos még a [MathWiki](http://wiki.math.bme.hu/view/Matematika_A1a_2008), de ez szintén régi.
 
