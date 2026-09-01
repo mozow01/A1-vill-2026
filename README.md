@@ -37,6 +37,12 @@ Hasznos még a [MathWiki](http://wiki.math.bme.hu/view/Matematika_A1a_2008), de 
 
 A korábbi előadók jegyzeteit használjuk és az órákon írt vázlatot. Ennél több nem kell.
 
+## Moodle szorgalmi
+
+Az első és a második zh előtt is lesz 6-6 Moodle feladat, amelyekből 6-6 pontot lehet szerezni és amik hozzáadódnak a zh pontokhoz. Ezek a feladatok nem kötelezők. 
+
+https://edu.vik.bme.hu/
+
 ## Tárgykövetelmények
 
 [pdf](https://github.com/mozow01/A1-vill-2026/blob/main/Matematika_A1_vill_Molnar_2026.docx.pdf)
