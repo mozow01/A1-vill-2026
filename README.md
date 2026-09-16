@@ -27,6 +27,9 @@ Sík- és térvektorok algebrája. Komplex számok. Számsorozatok. Függvényha
 
 ## Jegyzetek
 
+Online:
+https://mozow01.github.io/Matematika-A1/
+
 A több mint 20 évre visszanyúló Serény György / Simon András -féle hagyományhoz ragaszkodunk. Az ottani jegyzetek, feladatsorok használhatók a felkészüléshez. 
 
 Simon András korábbi előadó oldala: https://math.bme.hu/~asimon/
