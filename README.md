@@ -13,13 +13,13 @@ A tárgy gazdája a BME Természettudományi Kar Matematikai Intézete (Algebra 
 
 [Számonkérések ütemezése](https://www.vik.bme.hu/page/1150/) (később)
 
-1. zh: 2026. okt.
+1. zh: 2026. okt. 19 H. 18-20
   
-2. zh: 2026. nov.
+2. zh: 2026. nov. 19 Cs. 8-10
 
-pót zh (mindkét zh-ból) : 2026. dec.
+pót zh (mindkét zh-ból) : 2026. dec. 7. H. 18-20
 
-aláíráspótló vizsga (mindkét zh-ból) : 2026. dec.
+aláíráspótló vizsga (mindkét zh-ból) : 2027. jan. vizsgaidőszak 1. hete.
 
 ## Vázlatos tematika
 
