@@ -11,15 +11,15 @@ A tárgy gazdája a BME Természettudományi Kar Matematikai Intézete (Algebra 
 
 ## ZH információk
 
-[Számonkérések ütemezése](https://www.vik.bme.hu/page/1150/) (később)
+[Számonkérések ütemezése](https://vik.bme.hu/document/8281/original/vill_26-27-1.pdf) 
 
 1. zh: 2026. okt. 19 H. 18-20
   
 2. zh: 2026. nov. 19 Cs. 8-10
 
-pót zh (mindkét zh-ból) : 2026. dec. 7. H. 18-20
+pót zh (mindkét zh-ból) : 2026. dec. 7. H. 18-20 E1B
 
-aláíráspótló vizsga (mindkét zh-ból) : 2027. jan. vizsgaidőszak 1. hete.
+aláíráspótló vizsga (pótpót, mindkét zh-ból) : 2027. dec. 15 kedd 12:15, E...
 
 ## Vázlatos tematika
 
