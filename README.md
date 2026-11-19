@@ -17,7 +17,7 @@ A tárgy gazdája a BME Természettudományi Kar Matematikai Intézete (Algebra 
   
 2. zh: 2026. nov. 19 Cs. 8-10
 
-pót zh (mindkét zh-ból) : 2026. dec. 7. H. 18-20 E1B
+pót zh (mindkét zh-ból) : 2026. dec. 7. H. 18-20 AUDMAX
 
 aláíráspótló vizsga (pótpót, mindkét zh-ból) : 2027. dec. 15 kedd 12:15, E...
 
